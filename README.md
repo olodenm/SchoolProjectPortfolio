@@ -3,7 +3,7 @@
 <body>
     <h1>Добро пожаловать в мой репозиторий с выполненными домашними заданиями в школе <a href="https://netology.ru">"Нетология"</a>.</p></h1>
     <p>Здесь вы найдете различные проекты, которые я создал в процессе обучения в школе "Нетология", используя язык программирования Python и такие библиотеки, как Pandas, NumPy, Matplotlib, Scikit-learn и NLTK.</p>
-    <h2>Домашнии работы</h2>
+    <h2>Домашние работы</h2>
     <ul>
         <li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/HR_csv.ipynb">HR_csv</a>: 
         
