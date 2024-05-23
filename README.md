@@ -2,10 +2,20 @@
 <html>
 <body>
     <h1>Добро пожаловать в мой репозиторий с выполненными домашними заданиями в школе <a href="https://netology.ru">"Нетология"</a>.</p></h1>
-    <p>Здесь вы найдете различные проекты, которые я создал в процессе обучения в школе "Нетология", используя язык программирования Python и такие библиотеки, как Pandas, NumPy, Matplotlib, Scikit-learn и NLTK.</p>
-    <h2>Домашние работы</h2>
-    <ul>
-        <li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/HR_csv.ipynb">HR_csv</a>: 
+    <p>Здесь вы найдете различные проекты, которые я создал в процессе обучения в школе "Нетология", используя язык программирования Python и такие библиотеки, как Pandas, NumPy, Matplotlib, Scikit-learn и NLTK.</p> 
+<h2>Дипломная работа</h2>
+<ul>    
+    <li>
+        <a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/final_diplom_makhonov.ipynb">OZON</a>: 
+         
+Анализ продаж, оценок и выручки различных категорий товаров и брендов для выявления ключевых факторов, влияющих на бизнес.
+            <li><a href="https://github.com/olodenm/SchoolProjectPortfolio/blob/Netology_HW/Makhonov_OZON.pdf">Презентация дипломной работы</a></li>
+    </li>
+</ul>
+
+ <h2>Домашние работы</h2>
+   
+<li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/HR_csv.ipynb">HR_csv</a>: 
         
   Код выполняет исследовательский анализ данных HR-отдела, включая загрузку данных, расчет основных статистик, визуализацию корреляционной матрицы, анализ распределения сотрудников по различным критериям, проверку гипотезы, построение модели LDA для прогнозирования увольнения сотрудников и оценку ее качества.</li>
         <li><a href="https://github.com/olodenm/info_2022_olo/blob/Netology_HW/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_pandas.ipynb">Библиотека_pandas</a>: 
